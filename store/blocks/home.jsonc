@@ -1,12 +1,16 @@
 {
   "store.home": {
     "blocks": [
-      "flex-layout.row"
+      "rich-text",
+      "info-card#button-right",
+      "info-card#button-left",
+      "flex-layout.row",
+      "shelf"
     ]
   },
   "rich-text": {
     "props": {
-      "text": "*Hello, World!*",
+      "text": "**Hello, World!**",
       "textPosition": "RIGHT"
     }
   },
@@ -68,8 +72,7 @@
   "image#major-appliance":{
     "props":{
       "src": "https://appliancetheme.vteximg.com.br/assets/vtex.file-manager-graphql/images/major_appliance_banner___bb10093866a127345ddfbcca3efa5022.png",
-    "maxWidth": "100%"
+      "maxWidth": "100%"
     }
   }
-
 }
