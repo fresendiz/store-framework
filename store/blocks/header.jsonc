@@ -34,6 +34,12 @@
         ]
     },
     "header-row#main":{
+        "children": [
+            "logo",
+            "header-spacer",
+            "minicart",
+            "login"
+        ],
         "props":{
             "inverted":true,
             "sticky":true,
