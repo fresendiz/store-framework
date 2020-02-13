@@ -8,7 +8,7 @@
     "image#landingbanner":{
         "props":{
             "minWidth": "100%",
-            "src":"https://pm1.narvii.com/6399/5a999dbd9640cbc52900dc61a64652219056b040_hq.jpg"
+            "src":"https://em.wattpad.com/02f501054308c2667d858eb04c7566ebf9d60763/68747470733a2f2f73332e616d617a6f6e6177732e636f6d2f776174747061642d6d656469612d736572766963652f53746f7279496d6167652f733446304561584c625a4c7076513d3d2d3235313939383435322e313434613938343064363034333737312e6a7067?s=fit&w=720&h=720"
         }
     },
     "search-result-layout.customQuery":{
@@ -17,7 +17,7 @@
                 "orderByField": "OrderByReleaseDateDESC",
                 "hideUnavailableItems":true,
                 "maxItemsPerPage": 8,
-                "queryFied": "Blue Top Retro Camera",
+                "queryField": "Blue Top Retro Camera",
                 "mapField":"ft"
             }
         }
