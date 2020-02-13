@@ -37,6 +37,7 @@
         "children": [
             "logo",
             "header-spacer",
+            "search-bar",
             "minicart",
             "login"
         ],
@@ -50,7 +51,6 @@
         "children": [
           "logo",
           "header-spacer",
-          "search-bar",
           "minicart",
           "login"
         ],
